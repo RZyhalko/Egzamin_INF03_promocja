@@ -1,0 +1,39 @@
+*{
+font-family: Garamond;
+text-align: center;
+}
+header,footer{
+background-color: #8C7B75;
+color: white;
+height: 70px;
+font-size: 150%;
+}
+.prawy,.lewy{
+background-color: #BCAAA4;
+height: 400px;
+width: 35%;
+float:left;
+}
+.srodkowy{
+background-color: #EFDCD5;
+height: 400px;
+width: 30%;
+float:left;
+}
+img{
+border: 1px dashed #8C7B75;
+padding: 5px;
+border-radius: 10%;
+}
+footer {
+    clear: both;
+}
+li{
+    text-align: left;
+}
+.wynik {
+    margin-top: 100px;
+    border: 1px solid #8C7B75;
+    border-style: solid;
+    border-width: 1px;
+}
